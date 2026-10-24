@@ -140,6 +140,6 @@ Other measures: `Cancellation_Rate`, `Coupon_Usage_Rate`, `Avg_Order_Value_Gross
 
 ## About me
 
-Muhammed Asiwaju Abdul Lateef | Data analyst | www.linkedin.com/in/muhammed-abdul-lateef-5b5190229 | abdullateefmuhammed001@gmail.com
+Muhammed Asiwaju Abdul Lateef | Data analyst | www.linkedin.com/in/muhammed-abdul-lateef-5b5190229 | abdullateefmuhammed0001@gmail.com
 
 Other projects: [Excel customer churn analysis (MTN Nigeria dataset)](GitHub: https://lnkd.in/eZEwBYny)
